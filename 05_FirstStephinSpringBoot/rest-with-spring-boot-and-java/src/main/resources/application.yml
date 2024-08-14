@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: "rest-with-spring-boot-and-java"
+server:
+  port : 8081
